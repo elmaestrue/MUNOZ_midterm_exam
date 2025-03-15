@@ -1,4 +1,5 @@
 {
+  
   "name": "midterm",
   "version": "1.0.0",
   "main": "question1.js",
@@ -20,4 +21,5 @@
   },
   "homepage": "https://github.com/elmaestrue/MUNOZ_midterm_exam#readme",
   "description": ""
+
 }
